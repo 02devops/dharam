@@ -1,4 +1,4 @@
 # dharam
 this in my first repository
 <br>
-Author-Dharam Singh
+Author-Dharam Singh(git)
